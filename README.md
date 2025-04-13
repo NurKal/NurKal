@@ -1,4 +1,7 @@
 ## Hi there 👋
+New to this community and still learning <p>
+A student <p>
+Coding Beginner
 
 <!--
 **NurKal/NurKal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
